@@ -19,4 +19,4 @@ The project uses **BERT-base-uncased**, a pretrained transformer model. The mode
 All dependencies are listed in the `requirements.txt` file. The environment can be set up using:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
